@@ -113,7 +113,7 @@ function App() {
             </p>
             <div className="hero-actions">
               <a href="#projects" className="btn btn-primary">View My Work</a>
-              <a href="Akash_121_Resume.pdf" target="_blank" rel="noreferrer" className="btn btn-outline">
+              <a href="Akash_122_Resume.pdf" target="_blank" rel="noreferrer" className="btn btn-outline">
                 <i className="fas fa-file-pdf"></i> View Resume
               </a>
             </div>
